@@ -1,0 +1,728 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\shotgunfbx.FBX</Source>
+      <Name>Models\shotgunfbx</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\shotgunfbx.xnb</Output>
+      <Time>2011-06-08T12:09:56.1875-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\shotgunfbx_0.xml</Key>
+        <Value>2011-06-08T12:31:12.203125-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\box.fbx</Source>
+      <Name>Models\box</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\box.xnb</Output>
+      <Time>2011-06-08T12:09:54.78125-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\box_0.xml</Key>
+        <Value>2011-06-08T12:31:13.734375-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Building1.fbx</Source>
+      <Name>Models\Building1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\Building1.xnb</Output>
+      <Time>2011-06-08T12:09:55.46875-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Building1_0.xml</Key>
+        <Value>2011-06-08T12:31:14.515625-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\firtree1.fbx</Source>
+      <Name>Models\firtree1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\firtree1.xnb</Output>
+      <Time>2011-06-08T12:09:55.6875-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\firtree1_0.xml</Key>
+        <Value>2011-06-08T12:31:22.1875-04:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\stamm2_0.xnb</Request>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\nadeln4_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\f_tree.fbx</Source>
+      <Name>Models\f_tree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\f_tree.xnb</Output>
+      <Time>2011-06-08T12:09:54.015625-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\f_tree_0.xml</Key>
+        <Value>2011-06-08T12:31:33.375-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Handgun.fbx</Source>
+      <Name>Models\Handgun</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\Handgun.xnb</Output>
+      <Time>2011-06-08T12:09:55.984375-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Handgun_0.xml</Key>
+        <Value>2011-06-08T12:31:34.421875-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\health pack.fbx</Source>
+      <Name>Models\health pack</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\health pack.xnb</Output>
+      <Time>2011-06-08T12:09:55.203125-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\health pack_0.xml</Key>
+        <Value>2011-06-08T12:31:35.375-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Rifle.fbx</Source>
+      <Name>Models\Rifle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\Rifle.xnb</Output>
+      <Time>2011-06-08T12:09:53.71875-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Rifle_0.xml</Key>
+        <Value>2011-06-08T12:31:36.09375-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Shotgun.fbx</Source>
+      <Name>Models\Shotgun</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\Shotgun.xnb</Output>
+      <Time>2011-06-08T12:09:56.359375-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Shotgun_0.xml</Key>
+        <Value>2011-06-08T12:31:36.765625-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Zombie.fbx</Source>
+      <Name>Models\Zombie</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\Zombie.xnb</Output>
+      <Time>2011-06-08T12:09:54.625-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Zombie_0.xml</Key>
+        <Value>2011-06-08T12:31:46.328125-04:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\FBX\BFB3AF6\Zombie.fbm\Zombie_Diffuse_0.xnb</Request>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\FBX\BFB3AF6\Zombie.fbm\Zombie_Eye_Diffuse_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Rifle2.fbx</Source>
+      <Name>Models\Rifle2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\Rifle2.xnb</Output>
+      <Time>2011-06-08T12:09:55.84375-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Rifle2_0.xml</Key>
+        <Value>2011-06-08T12:32:01.484375-04:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\hk_mp5n_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\skybox2.x</Source>
+      <Name>Textures\skybox2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\skybox2.xnb</Output>
+      <Time>2011-06-08T12:11:26.125-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Textures\skybox2_0.xml</Key>
+        <Value>2011-06-08T12:32:02.921875-04:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Top_0.xnb</Request>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Right_0.xnb</Request>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Left_0.xnb</Request>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Front_0.xnb</Request>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Back_0.xnb</Request>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Bottom_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ground.x</Source>
+      <Name>Models\ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\ground.xnb</Output>
+      <Time>2011-06-08T12:09:56.109375-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ground_0.xml</Key>
+        <Value>2011-06-08T12:32:06.125-04:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\ground_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\sphere1uR.x</Source>
+      <Name>Models\sphere1uR</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\sphere1uR.xnb</Output>
+      <Time>2011-06-08T12:09:54.15625-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\sphere1uR_0.xml</Key>
+        <Value>2011-06-08T12:32:06.6875-04:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\White_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\black_tex.bmp</Source>
+      <Name>Textures\black_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\black_tex.xnb</Output>
+      <Time>2011-06-08T12:11:26.390625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\grass.jpg</Source>
+      <Name>Textures\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\grass.xnb</Output>
+      <Time>2011-06-08T12:11:25.921875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\muzzleflash.png</Source>
+      <Name>Textures\muzzleflash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\muzzleflash.xnb</Output>
+      <Time>2011-06-08T12:11:25.65625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\GameOver.jpg</Source>
+      <Name>Models\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\GameOver.xnb</Output>
+      <Time>2011-06-08T12:09:54.109375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\StartGame.jpg</Source>
+      <Name>Models\StartGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\StartGame.xnb</Output>
+      <Time>2011-06-08T12:09:56.4375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\health_bar.png</Source>
+      <Name>Textures\health_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\health_bar.xnb</Output>
+      <Time>2011-06-08T12:11:26.453125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\brick_wall_tex.jpg</Source>
+      <Name>Textures\brick_wall_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\brick_wall_tex.xnb</Output>
+      <Time>2011-06-08T12:11:26.328125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\winState.jpg</Source>
+      <Name>Models\winState</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\winState.xnb</Output>
+      <Time>2011-06-08T12:09:55.140625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\StatsFont.spritefont</Source>
+      <Name>Fonts\StatsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Fonts\StatsFont.xnb</Output>
+      <Time>2011-06-08T12:11:31.265625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\backgroundmusic.wav</Source>
+      <Name>Audio\backgroundmusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Audio\backgroundmusic.xnb</Output>
+      <Time>2011-06-08T12:12:24.8125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\gunsound.wav</Source>
+      <Name>Audio\gunsound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Audio\gunsound.xnb</Output>
+      <Time>2011-06-08T12:12:24.953125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\shotgunfbx.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\shotgunfbx_0.xml</Output>
+      <Time>2011-06-08T12:09:56.1875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\box.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\box_0.xml</Output>
+      <Time>2011-06-08T12:09:54.78125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Building1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Building1_0.xml</Output>
+      <Time>2011-06-08T12:09:55.46875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\firtree1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\firtree1_0.xml</Output>
+      <Time>2011-06-08T12:09:55.6875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\stamm2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\stamm2_0.xnb</Output>
+      <Time>2011-06-08T12:09:55.296875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\nadeln4.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\nadeln4_0.xnb</Output>
+      <Time>2011-06-08T12:09:54.71875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\f_tree.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\f_tree_0.xml</Output>
+      <Time>2011-06-08T12:09:54.015625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Handgun.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Handgun_0.xml</Output>
+      <Time>2011-06-08T12:09:55.984375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\health pack.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\health pack_0.xml</Output>
+      <Time>2011-06-08T12:09:55.203125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Rifle.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Rifle_0.xml</Output>
+      <Time>2011-06-08T12:09:53.71875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Shotgun.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Shotgun_0.xml</Output>
+      <Time>2011-06-08T12:09:56.359375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Zombie.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Zombie_0.xml</Output>
+      <Time>2011-06-08T12:09:54.625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\BFB3AF6\Zombie.fbm\Zombie_Diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\FBX\BFB3AF6\Zombie.fbm\Zombie_Diffuse_0.xnb</Output>
+      <Time>2011-06-08T12:31:39.078125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\BFB3AF6\Zombie.fbm\Zombie_Eye_Diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\FBX\BFB3AF6\Zombie.fbm\Zombie_Eye_Diffuse_0.xnb</Output>
+      <Time>2011-06-08T12:31:39.140625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Rifle2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Rifle2_0.xml</Output>
+      <Time>2011-06-08T12:09:55.84375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\hk_mp5n.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\hk_mp5n_0.xnb</Output>
+      <Time>2011-06-08T12:09:53.859375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\skybox2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Textures\skybox2_0.xml</Output>
+      <Time>2011-06-08T12:11:26.125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SkyBox_Top.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Top_0.xnb</Output>
+      <Time>2011-06-08T12:11:24.953125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SkyBox_Right.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Right_0.xnb</Output>
+      <Time>2011-06-08T12:11:25.734375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SkyBox_Left.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Left_0.xnb</Output>
+      <Time>2011-06-08T12:11:26.25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SkyBox_Front.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Front_0.xnb</Output>
+      <Time>2011-06-08T12:11:26.078125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SkyBox_Back.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Back_0.xnb</Output>
+      <Time>2011-06-08T12:11:26.59375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SkyBox_Bottom.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Textures\SkyBox_Bottom_0.xnb</Output>
+      <Time>2011-06-08T12:11:25.328125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ground_0.xml</Output>
+      <Time>2011-06-08T12:09:56.109375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\ground_0.xnb</Output>
+      <Time>2011-06-08T12:09:53.921875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sphere1uR.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\sphere1uR_0.xml</Output>
+      <Time>2011-06-08T12:09:54.15625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\White.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\White_0.xnb</Output>
+      <Time>2011-06-08T12:09:56.0625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NEWLEVEL.jpg</Source>
+      <Name>Models\NEWLEVEL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\NEWLEVEL.xnb</Output>
+      <Time>2011-06-08T12:09:55.796875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Pause_Screen.jpg</Source>
+      <Name>Models\Pause_Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\Models\Pause_Screen.xnb</Output>
+      <Time>2011-06-08T01:59:56.3125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>grid.x</Source>
+      <Name>grid</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\grid.xnb</Output>
+      <Time>2010-09-15T11:23:08-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\grid_0.xml</Key>
+        <Value>2011-06-08T18:32:27.765625-04:00</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\checker_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>checker.bmp</Source>
+      <Name>checker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\checker.xnb</Output>
+      <Time>2010-09-15T11:23:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2011-06-08T18:49:22.78125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ParticleEffect.fx</Source>
+      <Name>ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\ParticleEffect.xnb</Output>
+      <Time>2010-09-15T11:23:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>grid.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\grid_0.xml</Output>
+      <Time>2010-09-15T11:23:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>checker.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\checker_0.xnb</Output>
+      <Time>2010-09-15T11:23:08-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttackContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttackContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttack\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-30T19:35:30.3125-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

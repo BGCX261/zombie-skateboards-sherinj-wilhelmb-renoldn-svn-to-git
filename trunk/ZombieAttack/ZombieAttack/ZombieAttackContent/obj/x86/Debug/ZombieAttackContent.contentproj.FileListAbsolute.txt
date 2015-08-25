@@ -1,0 +1,6 @@
+C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack\ZombieAttack\ZombieAttackContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack1\ZombieAttack\ZombieAttack\ZombieAttackContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bebe\Desktop\zombie\ZombieAttack\ZombieAttack\ZombieAttackContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack5\ZombieAttack\ZombieAttack\ZombieAttackContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack6\ZombieAttack\ZombieAttack\ZombieAttackContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jake\My Documents\Visual Studio 2010\Projects\ZombieAttack7\ZombieAttack\ZombieAttack\ZombieAttackContent\obj\x86\Debug\ResolveAssemblyReference.cache

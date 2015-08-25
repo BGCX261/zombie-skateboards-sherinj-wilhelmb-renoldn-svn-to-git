@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieAttack", "ZombieAttack\ZombieAttack\ZombieAttack.csproj", "{ECAE57ED-6F6D-4602-9992-4C25C86311E2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ZombieAttackContent", "ZombieAttack\ZombieAttackContent\ZombieAttackContent.contentproj", "{0DA56F1C-4FD4-4191-B674-5EEA681007F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAE57ED-6F6D-4602-9992-4C25C86311E2}.Debug|x86.ActiveCfg = Debug|x86
+		{ECAE57ED-6F6D-4602-9992-4C25C86311E2}.Debug|x86.Build.0 = Debug|x86
+		{ECAE57ED-6F6D-4602-9992-4C25C86311E2}.Release|x86.ActiveCfg = Release|x86
+		{ECAE57ED-6F6D-4602-9992-4C25C86311E2}.Release|x86.Build.0 = Release|x86
+		{0DA56F1C-4FD4-4191-B674-5EEA681007F3}.Debug|x86.ActiveCfg = Debug|x86
+		{0DA56F1C-4FD4-4191-B674-5EEA681007F3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
